@@ -1,0 +1,3 @@
+﻿  control2.cpp
+C:\Users\igors\VisualStudio\C++\lab 2\control2\control2.cpp(56,21): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  control2.vcxproj -> C:\Users\igors\VisualStudio\C++\lab 2\control2\x64\Debug\control2.exe

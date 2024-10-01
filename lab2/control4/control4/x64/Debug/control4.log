@@ -1,0 +1,3 @@
+﻿  control4.cpp
+C:\Users\igors\VisualStudio\C++\lab 2\control4\control4.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  control4.vcxproj -> C:\Users\igors\VisualStudio\C++\lab 2\control4\x64\Debug\control4.exe
