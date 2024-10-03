@@ -1,0 +1,4 @@
+﻿  task2.cpp
+C:\Users\igors\VisualStudio\C++\lab5\upr5\task2\task2.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\igors\VisualStudio\C++\lab5\upr5\task2\task2.cpp(46,15): warning C4129: "B": нераспознанная escape-последовательность символов
+  task2.vcxproj -> C:\Users\igors\VisualStudio\C++\lab5\upr5\task2\x64\Debug\task2.exe

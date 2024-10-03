@@ -1,0 +1,4 @@
+﻿  task1.cpp
+C:\Users\igors\VisualStudio\C++\lab5\upr1\task1\task1.cpp(39,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\igors\VisualStudio\C++\lab5\upr1\task1\task1.cpp(40,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  task1.vcxproj -> C:\Users\igors\VisualStudio\C++\lab5\upr1\task1\x64\Debug\task1.exe

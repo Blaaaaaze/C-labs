@@ -1,0 +1,4 @@
+﻿  control1t1.cpp
+C:\Users\igors\source\repos\control1t1\control1t1.cpp(19,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\igors\source\repos\control1t1\control1t1.cpp(20,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  control1t1.vcxproj -> C:\Users\igors\source\repos\control1t1\x64\Debug\control1t1.exe
