@@ -1,0 +1,6 @@
+﻿  control2.cpp
+C:\Users\igors\VisualStudio\C++\lab7\control2\control2.cpp(15,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\igors\VisualStudio\C++\lab7\control2\control2.cpp(15,34): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\igors\VisualStudio\C++\lab7\control2\control2.cpp(16,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\igors\VisualStudio\C++\lab7\control2\control2.cpp(16,34): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  control2.vcxproj -> C:\Users\igors\VisualStudio\C++\lab7\control2\x64\Debug\control2.exe
