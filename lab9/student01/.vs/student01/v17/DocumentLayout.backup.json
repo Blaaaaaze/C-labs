@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab9\\student01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43A898EA-253D-41BA-9558-D98AE0634E88}|student01.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab9\\student01\\student01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43A898EA-253D-41BA-9558-D98AE0634E88}|student01.vcxproj|solutionrelative:student01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student01.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab9\\student01\\student01.cpp",
+              "RelativeDocumentMoniker": "student01.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab9\\student01\\student01.cpp*",
+              "RelativeToolTip": "student01.cpp*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T19:25:34.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
