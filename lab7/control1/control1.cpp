@@ -13,10 +13,11 @@ struct Time
     }
 };
 
-Time CreateTime() {
+Time CreateTime(int h, int m, int s) {
     Time t;
-    std::cout << "Введите время (часы минуты секунды через пробел): ";
-    std::cin >> t.hours >> t.minutes >> t.seconds;
+    t.hours = h;
+    t.minutes = m;
+    t.seconds = s;
 
     if (t.seconds >= 60) {
         t.seconds -= 60;
@@ -64,9 +65,15 @@ Time RaznTime(Time t1, Time t2) {
 int main()
 {
     system("chcp 1251");
+    int h1, m1, s1, h2, m2, s2;
+    std::cout << "Введите первое время (часы минуты секунды через пробел): ";
+    std::cin >> h1>> m1 >> s1;
 
-    Time t0 = CreateTime();
-    Time t1 = CreateTime();
+    std::cout << "Введите второе время (часы минуты секунды через пробел): ";
+    std::cin >> h2 >> m2 >> s2;
+
+    Time t0 = CreateTime(h1,m2,s1);
+    Time t1 = CreateTime(h2,m2,s2);
 
     t0.ShowSeconds();
     t1.ShowSeconds();

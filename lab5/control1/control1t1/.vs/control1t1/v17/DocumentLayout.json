@@ -1,9 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\igors\\source\\repos\\control1t1\\",
+  "WorkspaceRootPath": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control1\\control1t1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FA77E4E-C543-4849-986D-BA53FEEB4381}|control1t1.vcxproj|C:\\Users\\igors\\source\\repos\\control1t1\\control1t1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control3\\control3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control2\\control2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control1\\control1t2\\control1t2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA77E4E-C543-4849-986D-BA53FEEB4381}|control1t1.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control1\\control1t1\\control1t1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4FA77E4E-C543-4849-986D-BA53FEEB4381}|control1t1.vcxproj|solutionrelative:control1t1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,14 +28,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "control3.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control3\\control3.cpp",
+              "RelativeDocumentMoniker": "..\\..\\control3\\control3.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control3\\control3.cpp",
+              "RelativeToolTip": "..\\..\\control3\\control3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T07:13:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "control1t1.cpp",
-              "DocumentMoniker": "C:\\Users\\igors\\source\\repos\\control1t1\\control1t1.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control1\\control1t1\\control1t1.cpp",
               "RelativeDocumentMoniker": "control1t1.cpp",
-              "ToolTip": "C:\\Users\\igors\\source\\repos\\control1t1\\control1t1.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control1\\control1t1\\control1t1.cpp",
               "RelativeToolTip": "control1t1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-03T10:31:29.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "control1t2.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control1\\control1t2\\control1t2.cpp",
+              "RelativeDocumentMoniker": "..\\control1t2\\control1t2.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control1\\control1t2\\control1t2.cpp",
+              "RelativeToolTip": "..\\control1t2\\control1t2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T07:12:44.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "control2.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control2\\control2.cpp",
+              "RelativeDocumentMoniker": "..\\..\\control2\\control2.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control2\\control2.cpp",
+              "RelativeToolTip": "..\\..\\control2\\control2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T07:12:56.495Z",
               "EditorCaption": ""
             },
             {

@@ -1,0 +1,107 @@
+﻿  IdCard.cpp
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\IdCard.cpp(3,9): error C2533: IdCard::{ctor}: конструкторы не разрешены для возвращаемого типа
+  main.cpp
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(7,39): error C2061: синтаксическая ошибка: идентификатор "IdCard"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(17,20): error C2061: синтаксическая ошибка: идентификатор "IdCard"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(18,12): error C3646: getIdCard: неизвестный спецификатор переопределения
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(18,21): error C2059: синтаксическая ошибка: (
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(18,23): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(24,11): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(24,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(24,18): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\main.cpp(10,1): error C2628: недопустимый "IdCard" с последующим "int" (возможно, отсутствует ";")
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\main.cpp(10,5): error C3874: возвращаемый тип "main" должен быть "int", а не "IdCard"
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\main.cpp(29,37): error C2661: Student::Student: нет перегруженной функции, принимающей 3 аргументов
+      C:\Users\igors\VisualStudio\C++\lab10\student upr 22\main.cpp(29,37):
+      при попытке сопоставить список аргументов "(std::string, std::string, IdCard)"
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\main.cpp(49,41): error C2039: "getIdCard": не является членом "Student".
+      C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(5,7):
+       см. объявление "Student"
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\main.cpp(50,43): error C2039: "getIdCard": не является членом "Student".
+      C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(5,7):
+       см. объявление "Student"
+  
+  student.cpp
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(7,39): error C2061: синтаксическая ошибка: идентификатор "IdCard"
+  (компиляция исходного файла "student.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(17,20): error C2061: синтаксическая ошибка: идентификатор "IdCard"
+  (компиляция исходного файла "student.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(18,12): error C3646: getIdCard: неизвестный спецификатор переопределения
+  (компиляция исходного файла "student.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(18,21): error C2059: синтаксическая ошибка: (
+  (компиляция исходного файла "student.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(18,23): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "student.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(24,11): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+  (компиляция исходного файла "student.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(24,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "student.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(24,18): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "student.cpp")
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(5,1): error C2059: синтаксическая ошибка: using namespace
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(7,10): error C7550: "Student::{ctor}": полное имя в этом контексте называет конструктор, а не тип.
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(7,18): error C2065: string: необъявленный идентификатор
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(7,25): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "name"
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(7,61): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(7,61): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(13,15): error C2511: void Student::setIdCard(IdCard *): перегруженная функция-член не найдена в "Student"
+      C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(5,7):
+       см. объявление "Student"
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(14,5): error C2065: iCard: необъявленный идентификатор
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(17,17): error C2039: "getIdCard": не является членом "Student".
+      C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.h(5,7):
+       см. объявление "Student"
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(18,13): error C2065: iCard: необъявленный идентификатор
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(21,15): error C2761: "void Student::set_name(std::string)": повторное объявление члена запрещено.
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(21,24): error C2065: string: необъявленный идентификатор
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(21,31): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "student_name"
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(21,45): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(21,45): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(29,15): error C2761: "void Student::set_last_name(std::string)": повторное объявление члена запрещено.
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(29,29): error C2065: string: необъявленный идентификатор
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(29,36): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "student_last_name"
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(29,55): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(29,55): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(52,5): error C2065: ofstream: необъявленный идентификатор
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(52,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fout"
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(52,35): error C2653: ios: не является именем класса или пространства имен
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(52,40): error C2065: app: необъявленный идентификатор
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(52,14): error C3861: fout: идентификатор не найден
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(54,5): error C2065: fout: необъявленный идентификатор
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(58,9): error C2065: fout: необъявленный идентификатор
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(61,5): error C2065: fout: необъявленный идентификатор
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(61,18): error C2563: несоответствие в списке формальных параметров
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(61,18): error C2568: <<: не удается разрешить перегрузку функции
+      C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(61,18):
+      может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+  
+C:\Users\igors\VisualStudio\C++\lab10\student upr 22\student.cpp(62,5): error C2065: fout: необъявленный идентификатор
+  Создание кода...

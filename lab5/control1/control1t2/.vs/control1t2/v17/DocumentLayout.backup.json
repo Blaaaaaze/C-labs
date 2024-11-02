@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "control1t2.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control1\\control1t2\\control1t2.cpp",
               "RelativeDocumentMoniker": "control1t2.cpp",
-              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control1\\control1t2\\control1t2.cpp*",
-              "RelativeToolTip": "control1t2.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab5\\control1\\control1t2\\control1t2.cpp",
+              "RelativeToolTip": "control1t2.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-03T10:38:55.869Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         },

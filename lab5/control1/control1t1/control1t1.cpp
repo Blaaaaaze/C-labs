@@ -43,8 +43,6 @@ int main()
 {
     system("chcp 1251");
 
-    /*const int n = 10;
-    int mas[n];*/
 
     int n;
     std::cout << "Введите длину массива: "; std::cin >> n;
