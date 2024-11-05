@@ -1,0 +1,9 @@
+﻿  task1.cpp
+C:\Users\igors\VisualStudio\C++\lab11\task1\task1.cpp(104,11): error C2280: "Distance &Distance::operator =(const Distance &)": предпринята попытка ссылки на удаленную функцию
+      C:\Users\igors\VisualStudio\C++\lab11\task1\task1.cpp(40,1):
+      в этом месте создано компилятором: "Distance::operator ="
+      C:\Users\igors\VisualStudio\C++\lab11\task1\task1.cpp(40,1):
+      "Distance &Distance::operator =(const Distance &)": функция неявно удалена, так как в "Distance" содержится элемент данных "Distance::MTF" не являющегося классом типа с квалификатором const.
+      C:\Users\igors\VisualStudio\C++\lab11\task1\task1.cpp(7,17):
+       см. объявление "Distance::MTF"
+  
