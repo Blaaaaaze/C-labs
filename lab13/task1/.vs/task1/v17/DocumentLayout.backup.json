@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab13\\task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA95731F-F9A0-4BD1-B6EB-A5563D2BBA77}|task1.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab13\\task1\\task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA95731F-F9A0-4BD1-B6EB-A5563D2BBA77}|task1.vcxproj|solutionrelative:task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task1.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab13\\task1\\task1.cpp",
+              "RelativeDocumentMoniker": "task1.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab13\\task1\\task1.cpp",
+              "RelativeToolTip": "task1.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwEgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T19:22:03.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
