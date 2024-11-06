@@ -1,0 +1,27 @@
+﻿  task3.cpp
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,31): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,31): warning C4305:         with
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,31): warning C4305:         [
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,31): warning C4305:             _Ty=float
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,31): warning C4305:         ]
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,36): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,36): warning C4305:         with
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,36): warning C4305:         [
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,36): warning C4305:             _Ty=float
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,36): warning C4305:         ]
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,41): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,41): warning C4305:         with
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,41): warning C4305:         [
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,41): warning C4305:             _Ty=float
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,41): warning C4305:         ]
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,46): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,46): warning C4305:         with
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,46): warning C4305:         [
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,46): warning C4305:             _Ty=float
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,46): warning C4305:         ]
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,54): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,54): warning C4305:         with
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,54): warning C4305:         [
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,54): warning C4305:             _Ty=float
+C:\Users\igors\VisualStudio\C++\lab14\task3\task3.cpp(36,54): warning C4305:         ]
+  task3.vcxproj -> C:\Users\igors\VisualStudio\C++\lab14\task3\x64\Debug\task3.exe

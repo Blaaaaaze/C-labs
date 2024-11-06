@@ -1,0 +1,14 @@
+﻿  control1.cpp
+C:\Users\igors\VisualStudio\C++\lab14\control1\control1.cpp(19,35): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\igors\VisualStudio\C++\lab14\control1\control1.cpp(19,35): warning C4309: инициализация: усечение константного значения
+C:\Users\igors\VisualStudio\C++\lab14\control1\control1.cpp(7,23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+      C:\Users\igors\VisualStudio\C++\lab14\control1\control1.cpp(7,23):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\igors\VisualStudio\C++\lab14\control1\control1.cpp(24,32):
+          выполняется компиляция ссылки на экземпляр шаблон функции "float sred_znach<double*>(T,int)"
+          with
+          [
+              T=double *
+          ]
+  
+  control1.vcxproj -> C:\Users\igors\VisualStudio\C++\lab14\control1\x64\Debug\control1.exe

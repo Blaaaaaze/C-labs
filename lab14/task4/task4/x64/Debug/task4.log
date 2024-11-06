@@ -1,0 +1,7 @@
+﻿  task4.cpp
+C:\Users\igors\VisualStudio\C++\lab14\task4\task4.cpp(69,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\igors\VisualStudio\C++\lab14\task4\task4.cpp(69,47): warning C4244:         with
+C:\Users\igors\VisualStudio\C++\lab14\task4\task4.cpp(69,47): warning C4244:         [
+C:\Users\igors\VisualStudio\C++\lab14\task4\task4.cpp(69,47): warning C4244:             T=float
+C:\Users\igors\VisualStudio\C++\lab14\task4\task4.cpp(69,47): warning C4244:         ]
+  task4.vcxproj -> C:\Users\igors\VisualStudio\C++\lab14\task4\x64\Debug\task4.exe
