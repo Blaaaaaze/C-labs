@@ -17,11 +17,12 @@ void Triangle::showSidesLength() {
 }
 
 double Triangle::getPerimeter() {
-	return point1.distanceTo(point2) + point2.distanceTo(point3) + point3.distanceTo(point3);
+	return point1.distanceTo(point2) + point2.distanceTo(point3) + point3.distanceTo(point1);
 }
 
 double Triangle::getSquare() {
-	return sqrt(Triangle::getPerimeter() * (Triangle::getPerimeter() - point1.distanceTo(point2)) *
-			(Triangle::getPerimeter() - point2.distanceTo(point3)) *
-			(Triangle::getPerimeter() - point3.distanceTo(point3)));
+	double halhP = Triangle::getPerimeter() / 2;
+	return sqrt(halhP * (halhP - point1.distanceTo(point2)) *
+			(halhP - point2.distanceTo(point3)) *
+			(halhP - point3.distanceTo(point1)));
 }
