@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\Group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|solutionrelative:Group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\IdCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|solutionrelative:IdCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|solutionrelative:student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|solutionrelative:student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\Group.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|solutionrelative:Group.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\IdCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5BBD99-F4B1-4A50-B035-8256F819CDE6}|task11.vcxproj|solutionrelative:IdCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Group.h",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\Group.h",
+              "RelativeDocumentMoniker": "Group.h",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\Group.h",
+              "RelativeToolTip": "Group.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-02T19:59:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\Group.cpp",
+              "RelativeDocumentMoniker": "Group.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\Group.cpp",
+              "RelativeToolTip": "Group.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAlwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T19:59:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.h",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\student.h",
+              "RelativeDocumentMoniker": "student.h",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\student.h",
+              "RelativeToolTip": "student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-02T19:59:43.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "student.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\student.cpp",
+              "RelativeDocumentMoniker": "student.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\student.cpp",
+              "RelativeToolTip": "student.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T19:59:43.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T19:59:43.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdCard.h",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\IdCard.h",
+              "RelativeDocumentMoniker": "IdCard.h",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\IdCard.h",
+              "RelativeToolTip": "IdCard.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-02T19:59:43.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdCard.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\IdCard.cpp",
+              "RelativeDocumentMoniker": "IdCard.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab15\\task11\\IdCard.cpp",
+              "RelativeToolTip": "IdCard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T19:59:42.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

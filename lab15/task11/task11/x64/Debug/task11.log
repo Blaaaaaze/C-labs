@@ -1,0 +1,16 @@
+﻿  Group.cpp
+  main.cpp
+C:\Users\igors\VisualStudio\C++\lab15\task11\Group.cpp(30,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\igors\VisualStudio\C++\lab15\task11\Group.cpp(44,5): error C2819: тип "Student" не имеет перегруженный "operator ->"
+      C:\Users\igors\VisualStudio\C++\lab15\task11\Student.h(8,7):
+       см. объявление "Student"
+      C:\Users\igors\VisualStudio\C++\lab15\task11\Group.cpp(44,5):
+      возможно, имеется в виду "."
+  
+C:\Users\igors\VisualStudio\C++\lab15\task11\Group.cpp(44,13): error C2232: ->Student::display: левый операнд имеет тип "class", используйте "."
+C:\Users\igors\VisualStudio\C++\lab15\task11\Group.cpp(48,15): error C2661: Student::Student: нет перегруженной функции, принимающей 2 аргументов
+      C:\Users\igors\VisualStudio\C++\lab15\task11\Group.cpp(48,15):
+      при попытке сопоставить список аргументов "(std::string, std::string)"
+  
+  student.cpp
+  Создание кода...

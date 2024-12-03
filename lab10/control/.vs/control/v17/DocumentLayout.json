@@ -15,6 +15,14 @@
       "RelativeMoniker": "D:0:0:{BEB6B099-869B-41D9-A0A5-76E101BC5FCA}|control.vcxproj|solutionrelative:triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BEB6B099-869B-41D9-A0A5-76E101BC5FCA}|control.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab10\\control\\triangle_ag.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEB6B099-869B-41D9-A0A5-76E101BC5FCA}|control.vcxproj|solutionrelative:triangle_ag.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB6B099-869B-41D9-A0A5-76E101BC5FCA}|control.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab10\\control\\triangle_ag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEB6B099-869B-41D9-A0A5-76E101BC5FCA}|control.vcxproj|solutionrelative:triangle_ag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BEB6B099-869B-41D9-A0A5-76E101BC5FCA}|control.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab10\\control\\Dot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BEB6B099-869B-41D9-A0A5-76E101BC5FCA}|control.vcxproj|solutionrelative:Dot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,11 +38,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "triangle_ag.h",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab10\\control\\triangle_ag.h",
+              "RelativeDocumentMoniker": "triangle_ag.h",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab10\\control\\triangle_ag.h",
+              "RelativeToolTip": "triangle_ag.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T09:50:59.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "triangle_ag.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab10\\control\\triangle_ag.cpp",
+              "RelativeDocumentMoniker": "triangle_ag.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab10\\control\\triangle_ag.cpp",
+              "RelativeToolTip": "triangle_ag.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T09:50:59.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Dot.h",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab10\\control\\Dot.h",
               "RelativeDocumentMoniker": "Dot.h",
@@ -42,12 +80,11 @@
               "RelativeToolTip": "Dot.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-16T08:44:33.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T08:44:33.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "dot.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab10\\control\\dot.cpp",
               "RelativeDocumentMoniker": "dot.cpp",
@@ -55,8 +92,7 @@
               "RelativeToolTip": "dot.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-16T08:44:17.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T08:44:17.94Z"
             },
             {
               "$type": "Document",
@@ -66,7 +102,7 @@
               "RelativeDocumentMoniker": "triangle.h",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab10\\control\\triangle.h",
               "RelativeToolTip": "triangle.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-16T08:44:33.223Z",
               "EditorCaption": ""
@@ -96,10 +132,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-16T08:44:32.853Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         },
