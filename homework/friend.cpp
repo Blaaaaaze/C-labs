@@ -17,5 +17,5 @@ std::string Friend::get_role() {
 }
 
 std::string Friend::show_info() {
-	return this->get_name() + " " + this->get_second_name() + " Номер телефона: " + this->get_phone_number() + '\n' + "Категория: " + this->get_role() + '.';
+	return this->get_name() + ',' + this->get_second_name() + ',' + this->get_phone_number() + ',' + this->get_role();
 }

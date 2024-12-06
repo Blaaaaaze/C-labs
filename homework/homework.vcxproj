@@ -128,15 +128,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="colleague.h" />
+    <ClInclude Include="contactBook.h" />
     <ClInclude Include="family.h" />
     <ClInclude Include="friend.h" />
+    <ClInclude Include="interface.h" />
     <ClInclude Include="person.h" />
     <ClInclude Include="student.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="colleague.cpp" />
+    <ClCompile Include="contactBook.cpp" />
     <ClCompile Include="family.cpp" />
     <ClCompile Include="friend.cpp" />
+    <ClCompile Include="interface.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="person.cpp" />
     <ClCompile Include="student.cpp" />

@@ -8,14 +8,15 @@
 //Класс книги контактов. здесь реализована ассоциация
 // Этот же класс реализует работу c текстовым файлом
 class ContactBook {
-
-	
-public:
+private:
 	std::vector<Person*> contacts;
+
+public:
+
 	//Добавить контакт в книгу
-	void add_contact(Person* new_contact); 
+	void add_contact(Person* new_contact);
 	//Удалить контакт
-	void del_contact(Person* old_contact);
+	void del_contact(const std::string&);
 	//Записать всё в файл
 	void write_file();
 	//прочитать из файла
@@ -23,6 +24,6 @@ public:
 
 	void show_contacts();
 
-	std::vector<std::unique_ptr<Person>> get_contacts();
+	std::vector<Person*> get_contacts();
 
 };
