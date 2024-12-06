@@ -4,7 +4,7 @@ C:\Users\igors\VisualStudio\C++\lab14\control1\control1.cpp(19,35): warning C430
 C:\Users\igors\VisualStudio\C++\lab14\control1\control1.cpp(7,23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
       C:\Users\igors\VisualStudio\C++\lab14\control1\control1.cpp(7,23):
       контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\igors\VisualStudio\C++\lab14\control1\control1.cpp(24,32):
+          C:\Users\igors\VisualStudio\C++\lab14\control1\control1.cpp(25,32):
           выполняется компиляция ссылки на экземпляр шаблон функции "float sred_znach<double*>(T,int)"
           with
           [
