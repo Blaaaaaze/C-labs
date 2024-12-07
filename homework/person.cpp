@@ -57,9 +57,3 @@ bool Person::check_number(std::string new_number) {
 }
 
 
-bool Person::operator< (const Person& pers2) const {
-	if (this->name == pers2.name) {
-		return (this->second_name < pers2.second_name);
-	}
-	return (this->name < pers2.name);
-}

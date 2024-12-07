@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:contactBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:contactBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-04T14:33:45.667Z",
               "IsPinned": true,
@@ -40,15 +60,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "person.h",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.h",
               "RelativeDocumentMoniker": "person.h",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.h",
               "RelativeToolTip": "person.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-06T21:26:55.919Z",
+              "WhenOpened": "2024-12-07T01:52:58.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\student.cpp",
+              "RelativeDocumentMoniker": "student.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\student.cpp",
+              "RelativeToolTip": "student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T23:31:04.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "person.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp",
+              "RelativeDocumentMoniker": "person.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp",
+              "RelativeToolTip": "person.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T23:19:35.313Z",
               "EditorCaption": ""
             },
             {
@@ -59,9 +105,48 @@
               "RelativeDocumentMoniker": "contactBook.cpp",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.cpp",
               "RelativeToolTip": "contactBook.cpp",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwEUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T12:10:37.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contactBook.h",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.h",
+              "RelativeDocumentMoniker": "contactBook.h",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.h",
+              "RelativeToolTip": "contactBook.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T23:12:56.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "interface.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp",
+              "RelativeDocumentMoniker": "interface.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp",
+              "RelativeToolTip": "interface.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T22:43:15.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "interface.h",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.h",
+              "RelativeDocumentMoniker": "interface.h",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.h",
+              "RelativeToolTip": "interface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T22:43:13.178Z",
               "EditorCaption": ""
             },
             {

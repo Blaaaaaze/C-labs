@@ -9,17 +9,43 @@
 #include <fstream>
 #include <iostream>
 #include <sstream>
+#include <algorithm>
 
 void ContactBook::add_contact(Person* new_contact) {
 	contacts.push_back(std::move(new_contact));
+	write_file();
 }
 
-void ContactBook::del_contact(const std::string& name) {
-	contacts.erase(std::remove_if(contacts.begin(), contacts.end(),
-		[&name](Person* old_contact) {
-			return old_contact->get_name() == name;
-		}), contacts.end());
+
+
+//void ContactBook::del_contact(const std::string& name, const std::string& surname) {
+//	// Используем std::remove_if для удаления контактов с заданным именем и фамилией
+//	contacts.erase(std::remove_if(contacts.begin(), contacts.end(),
+//		[&name, &surname](Person* old_contact) {
+//			return old_contact->get_name() == name && old_contact->get_second_name() == surname;
+//		}), get_contacts().end());
+//}
+
+void ContactBook::del_contact(const std::string& name, const std::string& surname) {
+
+	auto new_end = std::remove_if(contacts.begin(), contacts.end(),
+		[&name, &surname](Person* old_contact) {
+			
+			if (old_contact == nullptr) return false; 
+
+			
+			/*if (!surname.empty()) {
+				return old_contact->get_name() == name && old_contact->get_second_name() == surname;
+			}*/
+			
+			return old_contact->get_name() == name && old_contact->get_second_name() == surname;
+		});
+
+	contacts.erase(new_end, contacts.end());
+	write_file();
 }
+
+
 
 
 void ContactBook::write_file() {
@@ -85,8 +111,21 @@ std::vector<Person*> ContactBook::get_contacts() {
 	return ContactBook::contacts;
 }
 
-void ContactBook::show_contacts() {
-	for (const auto& contact : contacts) {
-		contact->show_info();
+void ContactBook::create_contact(std::string name, std::string second_name, std::string phone_number, int category) {
+	if (category == 1) {
+		Person* obj1 = new Student(name, second_name, phone_number);
+		add_contact(obj1);
+	}
+	else if (category == 2) {
+		Person* obj2 = new Family(name, second_name, phone_number);
+		add_contact(obj2);
+	}
+	else if (category == 3) {
+		Person* obj3 = new Friend(name, second_name, phone_number);
+		add_contact(obj3);
+	}
+	else if (category == 4) {
+		Person* obj4 = new Colleague(name, second_name, phone_number);
+		add_contact(obj4);
 	}
 }

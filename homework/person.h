@@ -44,6 +44,4 @@ class Person{
 
 		//Виртуальный метод
 		virtual std::string show_info() = 0;
-		//Перегрузка оператора, чтобы сортировалось в алфавитном порядке
-		bool operator< (const Person& pers2) const;
 };
