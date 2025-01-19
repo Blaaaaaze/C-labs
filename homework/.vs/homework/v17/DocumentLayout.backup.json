@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:contactBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:contactBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:contactBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -59,47 +59,51 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "person.h",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.h",
               "RelativeDocumentMoniker": "person.h",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.h",
               "RelativeToolTip": "person.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-07T01:52:58.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "student.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\student.cpp",
               "RelativeDocumentMoniker": "student.cpp",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\student.cpp",
               "RelativeToolTip": "student.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T23:31:04.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "person.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp",
               "RelativeDocumentMoniker": "person.cpp",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp",
               "RelativeToolTip": "person.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T23:19:35.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "contactBook.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.cpp",
               "RelativeDocumentMoniker": "contactBook.cpp",
@@ -118,40 +122,36 @@
               "RelativeDocumentMoniker": "contactBook.h",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.h",
               "RelativeToolTip": "contactBook.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-06T23:12:56.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "interface.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp",
               "RelativeDocumentMoniker": "interface.cpp",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp",
               "RelativeToolTip": "interface.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T22:43:15.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "interface.h",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.h",
               "RelativeDocumentMoniker": "interface.h",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.h",
               "RelativeToolTip": "interface.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-06T22:43:13.178Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         },

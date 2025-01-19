@@ -1,12 +1,3 @@
-﻿  colleague.cpp
-  contactBook.cpp
-C:\Users\igors\VisualStudio\C++\homework\contactBook.cpp(86,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  family.cpp
-  friend.cpp
-  interface.cpp
+﻿  interface.cpp
 C:\Users\igors\VisualStudio\C++\homework\interface.cpp(67,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  main.cpp
-  person.cpp
-  student.cpp
-  Создание кода...
   homework.vcxproj -> C:\Users\igors\VisualStudio\C++\homework\x64\Debug\homework.exe

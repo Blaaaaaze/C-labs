@@ -19,13 +19,14 @@ int main() {
 	scores.push_back(3);
 	scores.push_back(3);
 
-	student *stud = new student("Петров", "Иван", "Алексеевич", scores);
-	std::cout << stud->get_info() << std::endl;
+	human* h1 = new student("Петров", "Иван", "Алексеевич", scores);
+	
+	std::cout << h1->get_info() << std::endl;
 
 	unsigned int teacher_work_time = 40;
-	teacher *tch = new teacher("Сергеев", "Дмитрий", "Сергеевич", teacher_work_time);
-
-	std::cout << tch->get_info() << std::endl;
+	h1= new teacher("Сергеев", "Дмитрий", "Сергеевич", teacher_work_time);
+	
+	std::cout << h1->get_info() << std::endl;
 
 	return 0;
 }

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|solutionrelative:teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|solutionrelative:human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|solutionrelative:student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|solutionrelative:human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C7DE7C9-2291-4235-948D-C1C97E0B8619}|task1.vcxproj|solutionrelative:teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "teacher.h",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\teacher.h",
               "RelativeDocumentMoniker": "teacher.h",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\teacher.h",
               "RelativeToolTip": "teacher.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-06T10:29:53.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "student.h",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\student.h",
               "RelativeDocumentMoniker": "student.h",
@@ -56,33 +60,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "human.h",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\human.h",
               "RelativeDocumentMoniker": "human.h",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\human.h",
               "RelativeToolTip": "human.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-06T10:29:46.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\lab12\\control\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-06T10:29:42.707Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         },

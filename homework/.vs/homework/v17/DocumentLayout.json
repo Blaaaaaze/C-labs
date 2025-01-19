@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:contactBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -19,20 +11,32 @@
       "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:contactBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\friend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:friend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\friend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:friend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B55461-01C6-4D5F-9DDE-3DEA1DB26CA3}|homework.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -55,44 +59,30 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-04T14:33:45.667Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "person.h",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.h",
               "RelativeDocumentMoniker": "person.h",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.h",
               "RelativeToolTip": "person.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-07T01:52:58.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "student.cpp",
-              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\student.cpp",
-              "RelativeDocumentMoniker": "student.cpp",
-              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\student.cpp",
-              "RelativeToolTip": "student.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T23:31:04.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "person.cpp",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp",
               "RelativeDocumentMoniker": "person.cpp",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\person.cpp",
               "RelativeToolTip": "person.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T23:19:35.313Z",
               "EditorCaption": ""
@@ -100,25 +90,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "contactBook.cpp",
-              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.cpp",
-              "RelativeDocumentMoniker": "contactBook.cpp",
-              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.cpp",
-              "RelativeToolTip": "contactBook.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T12:10:37.951Z",
+              "Title": "friend.h",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\friend.h",
+              "RelativeDocumentMoniker": "friend.h",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\friend.h",
+              "RelativeToolTip": "friend.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T07:21:45.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "friend.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\friend.cpp",
+              "RelativeDocumentMoniker": "friend.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\friend.cpp",
+              "RelativeToolTip": "friend.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T07:21:52.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "contactBook.h",
               "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.h",
               "RelativeDocumentMoniker": "contactBook.h",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.h",
               "RelativeToolTip": "contactBook.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-06T23:12:56.521Z",
               "EditorCaption": ""
@@ -126,14 +129,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "interface.cpp",
-              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp",
-              "RelativeDocumentMoniker": "interface.cpp",
-              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp",
-              "RelativeToolTip": "interface.cpp",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAJkAAAArAAAAAAAAAA==",
+              "Title": "contactBook.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.cpp",
+              "RelativeDocumentMoniker": "contactBook.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\contactBook.cpp",
+              "RelativeToolTip": "contactBook.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T22:43:15.406Z",
+              "WhenOpened": "2024-12-06T12:10:37.951Z",
               "EditorCaption": ""
             },
             {
@@ -144,10 +147,22 @@
               "RelativeDocumentMoniker": "interface.h",
               "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.h",
               "RelativeToolTip": "interface.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-06T22:43:13.178Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "interface.cpp",
+              "DocumentMoniker": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp",
+              "RelativeDocumentMoniker": "interface.cpp",
+              "ToolTip": "C:\\Users\\igors\\VisualStudio\\C\u002B\u002B\\homework\\interface.cpp",
+              "RelativeToolTip": "interface.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T22:43:15.406Z"
             },
             {
               "$type": "Bookmark",
